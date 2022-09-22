@@ -40,19 +40,19 @@
 
 1. Mun anem al Google Drive i crearem una nova carpeta
 
-![](/assets/images/image1.png)
+![](assets/images/image1.png)
 
 2. Tornem al lloc on hem creat aquesta carpeta i li donarem click dret i triar l'opció de compartir
 
-![](/assets/images/image4.png)
+![](assets/images/image4.png)
 
 3. Afegirem organització o usuaris específics a l’apartat d’escriure. Una vegada hem acabat, fem a FET, i ja es compartiría amb el usuari que hem posat
 
-![](/assets/images/image12.png)
+![](assets/images/image12.png)
 
 4. Després ja podem modificar els permisos que vulguem. N’hi ha per només veure, només comentar, i editar totalment
 
-![](/assets/images/image8.png)
+![](assets/images/image8.png)
 
 
 *******
@@ -63,31 +63,31 @@
 
 1. Hem d’anar a les paràmetres de ubuntu.
 
-![](/assets/images/image5.png)
+![](assets/images/image5.png)
 
 2. Buscarem comptes en línia.
 
-![](/assets/images/image9.png)
+![](assets/images/image9.png)
 
 3. Afegirem un nou compte de Google.
 
-![](/assets/images/image7.png)
+![](assets/images/image7.png)
 
 4. Iniciem la sessió i confirmem els permisos que vol GNOME.
 
-![](/assets/images/image11.png)
+![](assets/images/image11.png)
 
 5. Acceptarem els permisos que necessita, per tant li donarem a aprovar.
 
-![](/assets/images/image6.png)
+![](assets/images/image6.png)
 
 6. Després hem d’activar només la sincronització de només Fotos i Arxius.
 
-![](/assets/images/image10.png)
+![](assets/images/image10.png)
 
 7. Veurem ara en el nostre explorador d’arxius en Ubuntu que ens apareixerà el nostre Drive online.
 
-![](/assets/images/image13.png)
+![](assets/images/image13.png)
 
 *******
 
@@ -97,7 +97,7 @@
 
 2. Els apareixerà una pantalla per enviar una sol·licitud per a que l’admin li donigue accés al document i poden afegir un motiu. Una vegada ja estem, li donem a request access.
 
-![](/assets/images/image2.png)
+![](assets/images/image2.png)
 
 *******
 
@@ -111,16 +111,16 @@
 
 1. A l’apartat del explorador d’arxius, on apareix el nostre correu, primer entrarem dins, després anirem a la meva unitat
 
-![](/assets/images/Selection_090.png)
+![](assets/images/Selection_090.png)
 
 2. Crearem carpetes noves. Una per BACKUP i altra per Documents
 
-![](/assets/images/Selection_091.png)
+![](assets/images/Selection_091.png)
 
 3. Una vegada ja els tenim, els mourem als favorits de la barra del explorador d’arxius
 
-![](/assets/images/Selection_092.png)
+![](assets/images/Selection_092.png)
 
 4. Ja tendrém un accés directe i més rapid per fer les copies de seguretat
 
-![](/assets/images/Selection_093.png)
+![](assets/images/Selection_093.png)
